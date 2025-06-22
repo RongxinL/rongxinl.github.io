@@ -165,7 +165,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 10% high
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='fdsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fdsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline
 
@@ -244,9 +244,10 @@ IEEE Transactions on Image Processing (**TIP**), 2020
 <!-- </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- Orther pubs (list) -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -259,4 +260,4 @@ IEEE Transactions on Image Processing (**TIP**), 2020
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
