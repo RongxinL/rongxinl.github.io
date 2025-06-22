@@ -40,7 +40,6 @@ I also was fortunate to work closely with Prof. <a href="https://rmcong.github.i
 
 # 📝 Selected Publications
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/RIISSR_TIP.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RIISSR_TIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
