@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Feng Li (李锋)"
-  avatar           : "images\Feng_Li_.jpg"
-  bio              : "Hefei University of Technology"
+  avatar           : "images/Feng_Li_.jpg"
+  bio              : "Lorem ipsum College"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : 

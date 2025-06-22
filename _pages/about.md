@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor with the School of Computer Science and Information Engineering (School of Artificial Intelligence), Hefei University of Technology under Prof. Meng Wang. I received my Ph.D. degree in the Institute of Information Science, Beijing Jiaotong University (BJTU), China, 2022, supervised by Prof. Huihui Bai. I was a Joint Ph.D. Student from Jul. 2021 to Jul. 2022 in the School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore, supervised by Prof. Weisi Lin. I was fortunate to complete my Ph.D. degree in Mepro Led by Yao Zhao (BJTU). I also was fortunate to work closely with Prof. Runmin Cong (SDU).
+I am an Associate Professor with the School of Computer Science and Information Engineering (School of Artificial Intelligence), Hefei University of Technology under Prof. <a href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm/">Meng Wang</a>.
+I received my Ph.D. degree in the Institute of Information Science, Beijing Jiaotong University (BJTU), China, 2022, supervised by Prof. <a href="http://faculty.bjtu.edu.cn/8181/">Huihui Bai</a>. 
+I was a Joint Ph.D. Student from Jul. 2021 to Jul. 2022 in the School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore, supervised by Prof. <a href="https://personal.ntu.edu.sg/wslin/Home.html">Weisi Lin</a>. 
+I was fortunate to complete my Ph.D. degree in <a href="http://mepro.bjtu.edu.cn/">Mepro</a> Led by <a href="http://faculty.bjtu.edu.cn/5900/">Yao Zhao</a> (BJTU).
+I also was fortunate to work closely with Prof. <a href="https://rmcong.github.io/">Runmin Cong</a> (SDU).
 
 
 # 🔥 News
