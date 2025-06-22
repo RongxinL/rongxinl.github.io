@@ -54,9 +54,9 @@ IEEE Transactions on Image Processing (<strong>IEEE TIP</strong>), 2025
 <div class='paper-box-text' markdown="1">
 EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events
 
-Shuoyan Wei, <strong>Feng Li*</strong>, Shengen Tang, Yao Zhao, Huihui Bai*
+Shuoyan Wei, **Feng Li\***, Shengen Tang, Yao Zhao, Huihui Bai*
 
-IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR, Top 13.5% highlight</strong>), 2025
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 13.5% highlight**), 2025
 
 [Arxiv](https://arxiv.org/pdf/2505.04657)
 [Code](https://github.com/W-Shuoyan/EvEnhancer)
