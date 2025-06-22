@@ -55,6 +55,7 @@ EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Contin
 
 Shuoyan Wei, <strong>Feng Li*</strong>, Shengen Tang, Yao Zhao, Huihui Bai*
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR, Top 13.5% highlight</strong>), 2025
+
 [Arxiv](https://arxiv.org/pdf/2505.04657)
 [Code](https://github.com/W-Shuoyan/EvEnhancer)
 </div>
