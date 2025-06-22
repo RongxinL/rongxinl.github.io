@@ -67,7 +67,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 13.5% hi
 <div class='paper-box-text' markdown="1">
 Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption
 
-Anqi Li, <strong style="color: purple;">Feng Li*</strong>, Yuxi Liu, Runmin Cong, Yao Zhao, Huihui Bai*
+Anqi Li, <strong style="color: purple;">Feng Li\*</strong>, Yuxi Liu, Runmin Cong, Yao Zhao, Huihui Bai*
 
 International Conference on Learning Representations (**ICLR**), 2025
 
