@@ -63,6 +63,174 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 13.5% hi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ControlGIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption
+
+Anqi Li, **Feng Li\***, Yuxi Liu, Runmin Cong, Yao Zhao, Huihui Bai*
+
+International Conference on Learning Representations (**ICLR**), 2025
+
+[[Arxiv]](https://arxiv.org/pdf/2406.00758)
+[[Code]](https://github.com/lianqi1008/Control-GIC)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SRConvNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+SRConvNet: A Transformer-Style ConvNet for Lightweight Image Super-Resolution
+
+**Feng Li**, Runmin Cong*, Jingjing Wu, Huihui Bai, Meng Wang, Yao Zhao
+
+International Journal of Computer Vision (**IJCV**), 2025
+
+[[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-024-02147-y.pdf)
+[[Code]](https://github.com/lifengcs/SRConvNet)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GranularDQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Thinking in Granularity: Dynamic Quantization for Image Super-Resolution by Intriguing Multi-Granularity Clues
+
+Mingshen Wang, Zhao Zhang*, **Feng Li\***, Ke Xu, Kang Miao, Meng Wang
+
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025
+
+[[Arxiv]](https://arxiv.org/pdf/2409.14330)
+[[Code]](https://github.com/MmmingS/Granular-DQ.git)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AENet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Attend and Enrich: Enhanced Visual Prompt for Zero-Shot Learning
+
+Man Liu, Huihui Bai*, **Feng Li\***, Chunjie Zhang, Yunchao Wei, Tat-Seng Chua, and Yao Zhao
+
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025
+
+[[Arxiv]](https://arxiv.org/abs/2406.03032)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sign-idd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production
+
+Shengeng Tang, Jiayi He, Dan Guo, Yanyan Wei*, **Feng Li**, Richang Hong*
+
+AAAI Conference on Artificial Intelligence (**AAAI, Oral**), 2025
+
+[[Arxiv]](https://arxiv.org/pdf/2412.13609)
+[[Code]](https://github.com/NaVi-start/Sign-IDD)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+PSVMA+: Exploring Multi-granularity Semantic-visual Adaption for Generalized Zero-shot Learning
+
+Man Liu, Huihui Bai*, **Feng Li\***, Chunjie Zhang, Yunchao Wei, Meng Wang, Tat-Seng Chua, Yao Zhao
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
+
+[[PDF]](https://ieeexplore.ieee.org/document/10693541)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/blinddiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution
+
+**Feng Li**, Yixuan Wu, Zichao Liang, Runmin Cong, Huihui Bai*, Yao Zhao, and Meng Wang.
+
+Science China-Information Science (**SCIS**), 2024
+
+[[Arxiv]](https://arxiv.org/abs/2403.10211)
+[[Code]](https://github.com/lifengcs/BlindDiff)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/psvma.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Progressive Semantic-Visual Mutual adaption for Generalized Zero-Shot Learning
+
+Man Liu, **Feng Li**, Chunjie Zhang, Yunchao Wei, Huihui Bai*, and Yao Zhao
+
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 10% highlight**), 2023
+
+[[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Progressive_Semantic-Visual_Mutual_Adaption_for_Generalized_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+[[Code]](https://github.com/ManLiuCoder/PSVMA)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='fdsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline
+
+Lingzhi He, Hongguang Zhu, **Feng Li**, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, Yao Zhao
+
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021
+
+[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf)
+[[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/He_Towards_Fast_and_CVPR_2021_supplemental.pdf) 
+[[Homepage]](http://mepro.bjtu.edu.cn/resource.html)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CDINet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Cross-Modality Discrepant Interaction Network for RGB-D Salient Object Detection
+
+Chen Zhang, Runmin Cong, Qinwei Lin, Lin Ma, **Feng Li**, Yao Zhao, Sam Kwong
+
+ACM International Conference on Multimedia (**ACM MM**), 2021
+
+[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475364)
+[[Code]](https://github.com/1437539743/CDINet-ACM-MM21)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ROP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Towards Complete Scene and Regular Shape for Distortion Rectification by Curve-aware Extrapolation
+
+Kang Liao, Chunyu Lin, Yunchao Wei, **Feng Li**, Shangrong Yang, Yao Zhao
+
+IEEE International Conference on Computer Vision (**ICCV**), 2021
+
+[[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liao_Towards_Complete_Scene_and_Regular_Shape_for_Distortion_Rectification_by_ICCV_2021_paper.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/din.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Deep Interleaved Network for Single Image Super-Resolution with Asymmetric Co-attention
+
+**Feng Li†**, Runmin Cong†, Huihui Bai, Yifan He
+
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2020
+
+[[PDF]](https://arxiv.org/pdf/2004.11814.pdf)
+[[Code]](https://github.com/lifengcs/DIN)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DDAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Learning a Deep Dual Attention Network for Video Super-Resolution
+
+**Feng Li**, Huihui Bai, and Yao Zhao
+
+IEEE Transactions on Image Processing (**TIP**), 2020
+
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8995790)
+[[Code]](https://github.com/lifengcs/DDAN)
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
