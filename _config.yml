@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Feng Li (李锋)"
-description              : "Focusing on low-level computer vision including AIGC & detection, text-to-image/video, image/video restoration, compression, and multi-modal models."
+description              : "Focusing on low-level computer vision including AIGC and detection, text-to-image/video, image/video restoration, compression, and multi-modal models."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 

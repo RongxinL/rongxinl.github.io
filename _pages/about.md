@@ -25,8 +25,18 @@ I also was fortunate to work closely with Prof. <a href="https://rmcong.github.i
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2022.02*: &nbsp;🎉🎉 One TIP paper is accepted. -->
+- 🎉🎉 One TIP paper is accepted.
+- 🎉🎉 One CVPR paper is accepted. Congratulations to Shuoyan.
+- 🎉🎉 One ICLR paper is accepted. Congratulations to Anqi.
+- 🎉🎉 Three AAAI papers are accepted.
+- 🎉🎉 One TPAMI paper is accepted. Congratulations to Man Liu.
+- 🎉🎉 One IJCV paper is accepted.
+- 🎉🎉 We won the 2nd place on NTIRE 2024 Stereo Image Super-Resolution Challenge-Track 1 (CVPR2024). Congratulations to Rongxin.
+- 🎉🎉 One TII paper and one TOMM paper are accepted.
+- 🎉🎉 Two TMM papers are accepted.
+- 🎉🎉 One TCSVT paper is accepted.
+- 🎉🎉 One paper is accepted by CVPR 2023 and was selected as 1 of 10% highlight.
 
 # 📝 Publications 
 
