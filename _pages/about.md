@@ -42,14 +42,23 @@ I also was fortunate to work closely with Prof. <a href="https://rmcong.github.i
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RIISSR_TIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Reference-based Iterative Interaction with P^2-Matching for Stereo Image Super-Resolution]()
+Reference-based Iterative Interaction with P^2-Matching for Stereo Image Super-Resolution
 
 Runmin Cong, Rongxin Liao, <strong>Feng Li*</strong>, Ronghui Sheng, Huihui Bai, Renjie Wan, Sam Kwong, and Wei Zhang
 IEEE Transactions on Image Processing (<strong>IEEE TIP</strong>), 2025
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EvEnhancerV1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events
+
+Shuoyan Wei, <strong>Feng Li*</strong>, Shengen Tang, Yao Zhao, Huihui Bai*
+IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR, Top 13.5% highlight</strong>), 2025
+[Arxiv](https://arxiv.org/pdf/2505.04657)
+[Code](https://github.com/W-Shuoyan/EvEnhancer)
+</div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
