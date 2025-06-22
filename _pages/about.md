@@ -54,7 +54,7 @@ IEEE Transactions on Image Processing (<strong>IEEE TIP</strong>), 2025
 <div class='paper-box-text' markdown="1">
 EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events
 
-Shuoyan Wei, **Feng Li\***, Shengen Tang, Yao Zhao, Huihui Bai*
+Shuoyan Wei, <strong style="color: purple;">Feng Li*</strong>, Shengen Tang, Yao Zhao, Huihui Bai*
 
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 13.5% highlight**), 2025
 
@@ -67,7 +67,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 13.5% hi
 <div class='paper-box-text' markdown="1">
 Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption
 
-Anqi Li, **Feng Li\***, Yuxi Liu, Runmin Cong, Yao Zhao, Huihui Bai*
+Anqi Li, <strong style="color: purple;">Feng Li*</strong>, Yuxi Liu, Runmin Cong, Yao Zhao, Huihui Bai*
 
 International Conference on Learning Representations (**ICLR**), 2025
 
@@ -80,7 +80,7 @@ International Conference on Learning Representations (**ICLR**), 2025
 <div class='paper-box-text' markdown="1">
 SRConvNet: A Transformer-Style ConvNet for Lightweight Image Super-Resolution
 
-**Feng Li**, Runmin Cong*, Jingjing Wu, Huihui Bai, Meng Wang, Yao Zhao
+<strong style="color: purple;">Feng Li</strong>, Runmin Cong*, Jingjing Wu, Huihui Bai, Meng Wang, Yao Zhao
 
 International Journal of Computer Vision (**IJCV**), 2025
 
@@ -93,7 +93,7 @@ International Journal of Computer Vision (**IJCV**), 2025
 <div class='paper-box-text' markdown="1">
 Thinking in Granularity: Dynamic Quantization for Image Super-Resolution by Intriguing Multi-Granularity Clues
 
-Mingshen Wang, Zhao Zhang*, **Feng Li\***, Ke Xu, Kang Miao, Meng Wang
+Mingshen Wang, Zhao Zhang*, <strong style="color: purple;">Feng Li*</strong>, Ke Xu, Kang Miao, Meng Wang
 
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 
@@ -106,7 +106,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 <div class='paper-box-text' markdown="1">
 Attend and Enrich: Enhanced Visual Prompt for Zero-Shot Learning
 
-Man Liu, Huihui Bai*, **Feng Li\***, Chunjie Zhang, Yunchao Wei, Tat-Seng Chua, and Yao Zhao
+Man Liu, Huihui Bai*, <strong style="color: purple;">Feng Li*</strong>, Chunjie Zhang, Yunchao Wei, Tat-Seng Chua, and Yao Zhao
 
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 
@@ -118,7 +118,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 <div class='paper-box-text' markdown="1">
 Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production
 
-Shengeng Tang, Jiayi He, Dan Guo, Yanyan Wei*, **Feng Li**, Richang Hong*
+Shengeng Tang, Jiayi He, Dan Guo, Yanyan Wei*, <strong style="color: purple;">Feng Li</strong>, Richang Hong*
 
 AAAI Conference on Artificial Intelligence (**AAAI, Oral**), 2025
 
@@ -131,7 +131,7 @@ AAAI Conference on Artificial Intelligence (**AAAI, Oral**), 2025
 <div class='paper-box-text' markdown="1">
 PSVMA+: Exploring Multi-granularity Semantic-visual Adaption for Generalized Zero-shot Learning
 
-Man Liu, Huihui Bai*, **Feng Li\***, Chunjie Zhang, Yunchao Wei, Meng Wang, Tat-Seng Chua, Yao Zhao
+Man Liu, Huihui Bai*, <strong style="color: purple;">Feng Li*</strong>, Chunjie Zhang, Yunchao Wei, Meng Wang, Tat-Seng Chua, Yao Zhao
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
@@ -143,7 +143,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 <div class='paper-box-text' markdown="1">
 BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution
 
-**Feng Li**, Yixuan Wu, Zichao Liang, Runmin Cong, Huihui Bai*, Yao Zhao, and Meng Wang.
+<strong style="color: purple;">Feng Li</strong>, Yixuan Wu, Zichao Liang, Runmin Cong, Huihui Bai*, Yao Zhao, and Meng Wang.
 
 Science China-Information Science (**SCIS**), 2024
 
@@ -156,7 +156,7 @@ Science China-Information Science (**SCIS**), 2024
 <div class='paper-box-text' markdown="1">
 Progressive Semantic-Visual Mutual adaption for Generalized Zero-Shot Learning
 
-Man Liu, **Feng Li**, Chunjie Zhang, Yunchao Wei, Huihui Bai*, and Yao Zhao
+Man Liu, <strong style="color: purple;">Feng Li</strong>, Chunjie Zhang, Yunchao Wei, Huihui Bai*, and Yao Zhao
 
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 10% highlight**), 2023
 
@@ -169,7 +169,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 10% high
 <div class='paper-box-text' markdown="1">
 Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline
 
-Lingzhi He, Hongguang Zhu, **Feng Li**, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, Yao Zhao
+Lingzhi He, Hongguang Zhu, <strong style="color: purple;">Feng Li</strong>, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, Yao Zhao
 
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021
 
@@ -183,7 +183,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021
 <div class='paper-box-text' markdown="1">
 Cross-Modality Discrepant Interaction Network for RGB-D Salient Object Detection
 
-Chen Zhang, Runmin Cong, Qinwei Lin, Lin Ma, **Feng Li**, Yao Zhao, Sam Kwong
+Chen Zhang, Runmin Cong, Qinwei Lin, Lin Ma, <strong style="color: purple;">Feng Li</strong>, Yao Zhao, Sam Kwong
 
 ACM International Conference on Multimedia (**ACM MM**), 2021
 
@@ -196,7 +196,7 @@ ACM International Conference on Multimedia (**ACM MM**), 2021
 <div class='paper-box-text' markdown="1">
 Towards Complete Scene and Regular Shape for Distortion Rectification by Curve-aware Extrapolation
 
-Kang Liao, Chunyu Lin, Yunchao Wei, **Feng Li**, Shangrong Yang, Yao Zhao
+Kang Liao, Chunyu Lin, Yunchao Wei, <strong style="color: purple;">Feng Li</strong>, Shangrong Yang, Yao Zhao
 
 IEEE International Conference on Computer Vision (**ICCV**), 2021
 
@@ -208,7 +208,7 @@ IEEE International Conference on Computer Vision (**ICCV**), 2021
 <div class='paper-box-text' markdown="1">
 Deep Interleaved Network for Single Image Super-Resolution with Asymmetric Co-attention
 
-**Feng Li†**, Runmin Cong†, Huihui Bai, Yifan He
+<strong style="color: purple;">Feng Li†</strong>, Runmin Cong†, Huihui Bai, Yifan He
 
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2020
 
@@ -222,7 +222,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2020
 <div class='paper-box-text' markdown="1">
 Learning a Deep Dual Attention Network for Video Super-Resolution
 
-**Feng Li**, Huihui Bai, and Yao Zhao
+<strong style="color: purple;">Feng Li</strong>, Huihui Bai, and Yao Zhao
 
 IEEE Transactions on Image Processing (**TIP**), 2020
 
