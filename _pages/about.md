@@ -58,8 +58,8 @@ Shuoyan Wei, **Feng Li\***, Shengen Tang, Yao Zhao, Huihui Bai*
 
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR, Top 13.5% highlight**), 2025
 
-[Arxiv](https://arxiv.org/pdf/2505.04657)
-[Code](https://github.com/W-Shuoyan/EvEnhancer)
+[[Arxiv]](https://arxiv.org/pdf/2505.04657)
+[[Code]](https://github.com/W-Shuoyan/EvEnhancer)
 </div>
 </div>
 
