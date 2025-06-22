@@ -44,7 +44,7 @@ I also was fortunate to work closely with Prof. <a href="https://rmcong.github.i
 <div class='paper-box-text' markdown="1">
 Reference-based Iterative Interaction with P^2-Matching for Stereo Image Super-Resolution
 
-Runmin Cong, Rongxin Liao, <strong>Feng Li*</strong>, Ronghui Sheng, Huihui Bai, Renjie Wan, Sam Kwong, and Wei Zhang
+Runmin Cong, Rongxin Liao, <strong style="color: #8A2BE2;">Feng Li*</strong>, Ronghui Sheng, Huihui Bai, Renjie Wan, Sam Kwong, and Wei Zhang
 
 IEEE Transactions on Image Processing (<strong>IEEE TIP</strong>), 2025
 </div>
