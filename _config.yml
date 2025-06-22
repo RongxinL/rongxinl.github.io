@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Feng Li 李锋"
-description              : "I am an Associate Professor with the School of Computer Science and Information Engineering (School of Artificial Intelligence), Hefei University of Technology under Prof. Meng Wang. I received my Ph.D. degree in the Institute of Information Science, Beijing Jiaotong University (BJTU), China, 2022, supervised by Prof. Huihui Bai. I was a Joint Ph.D. Student from Jul. 2021 to Jul. 2022 in the School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore, supervised by Prof. Weisi Lin. I was fortunate to complete my Ph.D. degree in Mepro Led by Yao Zhao (BJTU). I also was fortunate to work closely with Prof. Runmin Cong (SDU). "
+title                    : "Feng Li (李锋)"
+description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Feng Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Feng Li (李锋)"
+  avatar           : "images\Feng_Li_.jpg"
+  bio              : "Hefei University of Technology"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mYfWM6oAAAAJ&hl=en&oi=ao"
-  email            : "fengli@hfut.edu.cn; lifeng16.hf@gmail.com  "
+  email            : "fengli@hfut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
