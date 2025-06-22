@@ -45,6 +45,7 @@ I also was fortunate to work closely with Prof. <a href="https://rmcong.github.i
 Reference-based Iterative Interaction with P^2-Matching for Stereo Image Super-Resolution
 
 Runmin Cong, Rongxin Liao, <strong>Feng Li*</strong>, Ronghui Sheng, Huihui Bai, Renjie Wan, Sam Kwong, and Wei Zhang
+
 IEEE Transactions on Image Processing (<strong>IEEE TIP</strong>), 2025
 </div>
 </div>
@@ -54,6 +55,7 @@ IEEE Transactions on Image Processing (<strong>IEEE TIP</strong>), 2025
 EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events
 
 Shuoyan Wei, <strong>Feng Li*</strong>, Shengen Tang, Yao Zhao, Huihui Bai*
+
 IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR, Top 13.5% highlight</strong>), 2025
 
 [Arxiv](https://arxiv.org/pdf/2505.04657)
